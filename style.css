@@ -1,0 +1,15 @@
+
+p{
+  margin: 0 !important;
+}
+
+.dropdown-btn{
+  background-color: transparent;
+  border: none;
+}
+.dropdown-btn:hover{
+  background-color: rgb(246, 238, 228);
+}
+.dropdown-btn:focus{
+  background-color: rgb(246, 238, 228);
+}
